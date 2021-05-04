@@ -22,7 +22,7 @@ This project was jointly developed by
 - Gulzar Hussain
 - Syed Danish Hasan
 
-You may contact me about any bugs or errors at the following emails mmm05534@st.habib.edu.pk , gh06210@st.habib.edu.pk
+You may contact me about any bugs or errors at the following emails mm05534@st.habib.edu.pk , gh06210@st.habib.edu.pk, sh06036@st.habib.edu.pk
 
 Happy testing :)
 
