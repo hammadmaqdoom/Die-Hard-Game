@@ -13,8 +13,14 @@ Some features of game are as follows:
 - std containers (list, vector, etc… ) are used to store the object pointers created dynamically.
 
 
-# How to run
-- Run a.exe file to play the game
+## How to Run
+- Use VSCode or any IDE that supports C++.
+- Install SDL Library.
+- Install SDL_Mixer.
+- Use the following command to compile.
+```
+g++ *.cpp -IC:\mingw_dev_lib\include\SDL2 -LC:\mingw_dev_lib\lib -w -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer
+```
 
 # Credits
 This project was jointly developed by 
